@@ -6,6 +6,8 @@ public class Main {
         System.out.println("Darren smells.");
         System.out.println("Connor rules.");
         System.out.println("******************");
+        System.out.println("5318008");
+        System.out.println("Go Spartans!");
 
 
         System.out.println("\nIf you changed this code, increment i!");
