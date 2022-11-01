@@ -8,11 +8,12 @@ public class Main {
         System.out.println("******************");
 
 
+
         System.out.println("\nIf you changed this code, increment i!");
         int i = 2;
         System.out.println(i);
         System.out.println("Connor Smelly");
         System.out.println("I added this code.");
-        System.out.println("I added this code again..");
+
     }
 }
