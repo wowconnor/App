@@ -9,7 +9,8 @@ public class Main {
 
 
         System.out.println("\nIf you changed this code, increment i!");
-        int i = 0;
+        int i = 1;
         System.out.println(i);
+        System.out.println("Connor Smelly");
     }
 }
